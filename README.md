@@ -9,7 +9,7 @@ If the package can be installed by adding `slack` to your list of dependencies i
 ```elixir
 def deps do
   [
-    {:slack, github: "julialiff/slack_elixir"},
+    {:slack, github: "julialiff/ex_slack"},
   ]
 end
 ```
